@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Chris Walker's Home page</title>
+<title>Salve rentals for 2024-25</title>
 <style>
   h1{
   text-align: center;
@@ -20,7 +20,7 @@
   width: 80%;
       }
   body{
-  background-color:rgb(48, 164, 161)
+  background-color:rgb(3, 152, 252)
   }
   p{
   text-align: center;
